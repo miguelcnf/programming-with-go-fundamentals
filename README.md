@@ -14,6 +14,7 @@ Code samples with playground links to follow along the workshop:
 * Quiz: What’s the value of string(10) ? - https://play.golang.org/p/TgB6bN-pXfy
 * Numeric and String Conversion - https://play.golang.org/p/juTsrD_61Km
 * Functions - https://play.golang.org/p/07KxuEEeuwa
+* Closures and Immediately Executed Functions - https://play.golang.org/p/EgRyzCtWF9Y
 * Looping - https://play.golang.org/p/KM4yAayj39J
 * Quiz: What does this map range prints? - https://play.golang.org/p/lTOKklj64Eh
 * If-Else - https://play.golang.org/p/BiKtb--OF2Q
